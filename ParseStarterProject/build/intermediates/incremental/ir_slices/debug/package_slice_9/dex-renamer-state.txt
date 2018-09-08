@@ -1,0 +1,4 @@
+#Thu Sep 06 10:45:46 IST 2018
+base.0=G\:\\Android\\AndroidProjects\\Twitter\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
